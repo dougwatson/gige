@@ -7,12 +7,12 @@ This repo is for archive and knowledge sharing purposes. There is no support bec
 
 Controlling GIGE Vision cameras like the Basler line of ethernet cameras (i.e. aca2440-20gc).
 This is a pure Go application that enables reading and writing to memory registers 
-in the camera over a UDP connection. It has been tested on Linux and MacOS platforms.
+in the camera over a UDP connection.
 
 ### Quick start ###
 
 Dependencies - no drivers are needed just GO!
-
+It has been tested on Linux and MacOS platforms.
 
 ------------------------------------------------------------
 
