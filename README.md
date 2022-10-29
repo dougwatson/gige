@@ -14,13 +14,6 @@ in the camera over a UDP connection. It has been tested on Linux and MacOS platf
 Dependencies - no drivers are needed just GO!
 
 
-To import this package and use it in your program:
-
-
-```go get github.com/dougwatson/gige```
-
-
-
 ------------------------------------------------------------
 
 Find the executable, connect your camera and run it - 
