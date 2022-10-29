@@ -1,6 +1,6 @@
 # README #
 
-This repo is for archive and knowledge sharing purposes (no support, but pull requests and forks are welcome). It's for developers who want to explore GIGE camera control with a 100% pure GO solution (no drivers needed). I developed this for aca2440 cameras, but should work with small changes for other GIGE camera manufacturers as well.
+This repo is for archive and knowledge sharing purposes. There is no support becasue I don't use these cameras anymore- but pull requests and forks are welcome. It's for developers who want to explore GIGE camera control with a 100% pure GO solution (no drivers needed). I developed this for aca2440 cameras, but should work with small changes for other GIGE camera manufacturers as well.
 
 
 ### About ###
