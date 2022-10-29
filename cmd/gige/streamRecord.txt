@@ -1,0 +1,1 @@
+ip_port,pictureMapCount,packetNum,actualSize,maxImagePayload*packetNum,difference
