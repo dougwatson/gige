@@ -12,6 +12,7 @@ in the camera over a UDP connection.
 ### Quick start ###
 
 Dependencies - no drivers are needed just GO!
+
 It has been tested on Linux and MacOS platforms.
 
 ------------------------------------------------------------
