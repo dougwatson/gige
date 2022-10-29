@@ -1,13 +1,13 @@
 # README #
 
-This repo is for archive and knowledge sharing purposes. There is no support becasue I don't use these cameras anymore- but pull requests and forks are welcome. It's for developers who want to explore GIGE camera control with a 100% pure GO solution (no drivers needed). I developed this for aca2440 cameras, but should work with small changes for other GIGE camera manufacturers as well.
+This repo is for archive and knowledge sharing purposes. There is no support because I don't use these cameras anymore- but pull requests and forks are welcome. It's for developers who want to explore GIGE camera control with a 100% pure GO solution (no drivers needed). I developed this for aca2440 cameras, but has also been tested with some Lucid cameras and should work with small changes for other GIGE camera manufacturers as well.
 
 
 ### About ###
 
 Controlling GIGE Vision cameras like the Basler line of ethernet cameras (i.e. aca2440-20gc).
 This is a pure Go application that enables reading and writing to memory registers 
-in the camera over a UDP connection.
+in the camera over a UDP connection. It has been tested on Linux and MacOS platforms.
 
 ### Quick start ###
 
