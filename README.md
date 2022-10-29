@@ -17,17 +17,9 @@ It has been tested on Linux and MacOS platforms.
 
 ------------------------------------------------------------
 
-Find the executable, connect your camera and run it - 
+Find the executable, connect your camera and run it -
 
-#### Find your go path and cd to it:
-```
-go env| grep GOPATH
-```
-(cd to it, then)
-
-```
-cd bin
-```
+GIGE Camera is required and make sure you can ping it on the network.
 
 #### You should see the program named 'gige' compiled in there:
 
