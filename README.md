@@ -17,7 +17,7 @@ It has been tested on Linux and MacOS platforms.
 
 ------------------------------------------------------------
 
-Find the executable, connect your camera and run it -
+Change directory to cmd/gige, go build, connect your camera and run it -
 
 GIGE Camera is required and make sure you can ping it on the network.
 
